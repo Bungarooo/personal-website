@@ -1,0 +1,22 @@
+[
+  {
+    "role": "user",
+    "content": "Hi, how are you?",
+    "timestamp": "2026-09-22T00:50:52.713802"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello! I'm doing well, thank you for asking. I\u2019m currently focused on some exciting projects at Westinghouse, particularly in tools and automation using C# and .Net. How about you? What brings you to my website?",
+    "timestamp": "2026-09-22T00:50:52.713802"
+  },
+  {
+    "role": "user",
+    "content": "I am curious, what was your first ever job?",
+    "timestamp": "2026-09-22T00:51:16.622941"
+  },
+  {
+    "role": "assistant",
+    "content": "My first role in the professional realm was as an intern game programmer at Digital Dream Labs. I started working there in March 2019 while I was still in college. It was a great opportunity to get hands-on experience, collaborating with a team to develop various projects, including R&D initiatives and game systems. That experience helped me build my skills in Unity and programming while also igniting my passion for game design. How about you? Have you had any interesting jobs or experiences?",
+    "timestamp": "2026-09-22T00:51:16.622941"
+  }
+]

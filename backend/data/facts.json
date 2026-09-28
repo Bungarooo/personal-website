@@ -1,0 +1,21 @@
+{
+  "full_name": "Benjamin Harry Ungar",
+  "name": "Ben",
+  "current_role": "Software Engineer at Westinghouse",
+  "location": "Pittsburgh, PA",
+  "email": "benjamin.ungar@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/benjamin-ungar/",
+  "specialties": [
+    "C#/.Net development",
+    "Unity development",
+    "Game Design"
+  ],
+  "years_experience": 6,
+  "education": [
+    {
+      "degree": "BA, Digital Narrative and Interactive Design",
+      "institution": "University of Pittsburgh",
+      "year": "2021"
+    }
+  ]
+}
